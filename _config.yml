@@ -1,0 +1,28 @@
+name: Cedric brown
+favicon: null
+layout_spectrum: 0.928306000540033
+typography_spectrum: 0.9563845919910818
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.10144025133922696
+  lightness: 0.6088142062071711
+  saturation: 0.8211691421456635
+  rhythmicContrast: 0.35418791603296995
+purpose: []
