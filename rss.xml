@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cedric brown]]></title>
         <description><![CDATA[Cedric brown]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cedric-brown/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 23:13:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 23:13:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cedric-brown/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reach for the sky]]></title>
+            <description><![CDATA[<article><h1>Reach for the sky</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ac61fdd2333d69834598c286540727eeeffffcd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cedric-brown/reach-for-the-sky/index.html</link>
+            <guid isPermaLink="false">475b7033-d034-48d6-9960-3c9d80630e41</guid>
+            <pubDate>Tue, 12 Jan 2016 23:13:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The last man]]></title>
             <description><![CDATA[<article><h1>The last man</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce202e1f-149e-42e6-ab34-72cfa72d56ec.jpg"></article>]]></description>
-            <link>undefinedthe-last-man/index.html</link>
+            <link>https://thegrid.ai/cedric-brown/the-last-man/index.html</link>
             <guid isPermaLink="false">0da9a743-9749-4fb0-997a-5681786e2cae</guid>
             <pubDate>Tue, 12 Jan 2016 23:13:43 GMT</pubDate>
         </item>
